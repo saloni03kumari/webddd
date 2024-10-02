@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="">Home</a>
+            <a href="">Contact</a>
+            <a href="">Profile</a>
+            <a href="">About us</a>
+        </div>
+        <div class="sidebar">Sidebar</div>
+        <div class="card1">
+            <img src="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias tempora nesciunt recusandae! Esse sunt commodi beatae harum repellendus doloribus vitae nemo hic praesentium perspiciatis. Magnam?</p>
+        </div>
+        <div class="content">content</div>
+        <div class="box1">box1</div>
+        <div class="box2">box2</div>
+        <div class="box3">box3</div>
+        <div class="footer">footer</div>
+    </div>
+</body>
+</html>
